@@ -1,6 +1,8 @@
 # UE5-Stamina-Implementation
 Basic Stamina system implementaion using blueprints in Unreal Engine 5
 
+Note: These methods may be suitable only for small indie projects and may not be appropriate for large-scale or professional projects.
+
 # Basic Structure
 This simple stamina logic was made by creating a Blueprint Class:
 
