@@ -17,7 +17,7 @@ This simple stamina logic was made by creating a Blueprint Class:
 - <b>Stamina (float)</b> to store the current amount of stamina;
 - <b>MaxStamina (float)</b> to store the maximum amount of stamina (in my case max stamina = 100.0);
   
-<img width="315" height="137" alt="image" src="https://github.com/user-attachments/assets/27269875-114a-495d-a956-874dc314ee1f" />
+<img width="234" height="104" alt="image" src="https://github.com/user-attachments/assets/64a6b685-ccaf-4600-a29e-9485179e0cb5" />
 
 ## Spending Stamina 
 
@@ -39,4 +39,5 @@ The subtraction of stamina is possible until the Stamina is greater than or equa
 
 ## Passive Regeneration
 
+<img width="1545" height="536" alt="image" src="https://github.com/user-attachments/assets/edd9801e-51b6-4dd3-811e-7fdcdc12c65c" />
 
